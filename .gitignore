@@ -1,0 +1,30 @@
+# 💾 Ignore Python bytecode
+__pycache__/
+*.py[cod]
+*.so
+
+# 🚫 Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# ⚙️ Ignore environment configs
+.env
+.venv/
+venv/
+env/
+*.egg-info/
+
+# 🧪 Ignore test files
+*.pytest_cache/
+
+# 📊 Ignore large dataset folder
+data/
+
+# 🔧 VS Code settings
+.vscode/
+
+# 📍 Ignore system files
+.DS_Store
+Thumbs.db
+
+# ✅ DO NOT ignore this — keep saved plots!
+!outputs/
