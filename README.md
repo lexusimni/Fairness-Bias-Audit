@@ -8,9 +8,9 @@ COMPAS scores are used by judges to make decisions about bail, sentencing, and p
 
 📁 Folder Structure
 -------------------
-
+```
 fairness-bias-audit/
-├── data/                        # COMPAS dataset (not tracked in GitHub)
+├── data/                        
 ├── notebooks/
 │   └── fairness_bias_audit.ipynb
 ├── outputs/
@@ -22,7 +22,7 @@ fairness-bias-audit/
 │   └── mitigation_comparison.png
 ├── requirements.txt
 └── .gitignore
-
+```
 🛠️ Tools & Libraries Used
 ---------------------------
 
