@@ -1,7 +1,7 @@
 🧠 FAIRNESS & BIAS AUDIT: COMPAS Risk Assessment Tool
 =====================================================
 
-This project performs a rigorous fairness and bias analysis on the real-world COMPAS dataset—an algorithm used in the U.S. criminal justice system to score defendants' risk of reoffending. Rather than building a predictive model, we audit the algorithm's **existing scores** directly, focusing on disparities based on race and gender.
+This project performs a rigorous fairness and bias analysis on the real-world COMPAS dataset an algorithm used in the U.S. criminal justice system to score defendants' risk of reoffending. Rather than building a predictive model, we audit the algorithm's **existing scores** directly, focusing on disparities based on race and gender.
 
 📌 Why this matters:
 COMPAS scores are used by judges to make decisions about bail, sentencing, and parole. Multiple studies have shown it may disproportionately assign higher risk to Black individuals. This project analyzes that claim using real data and fairness metrics.
